@@ -5230,7 +5230,7 @@ function _makeConsumableArray( arr ) {
 						el(
 							'span',
 							{ className: 'add_to_cart_button button' },
-							__( 'Add to cart', 'porto-functionality' )
+							__( 'Agregar al carrito', 'porto-functionality' )
 						),
 						porto_block_vars.product_show_wl && el(
 							'div',
